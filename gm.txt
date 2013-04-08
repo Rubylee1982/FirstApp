@@ -1,0 +1,51 @@
+/sc item_new YX本_钥匙_4段
+/sc scmd addcrazypoint 200
+/sc settargethp 1 10
+/sc dungeon_refresh 207
+/sc item_new 杂项_挂机道具_02 4
+
+我的京东账号lj811031,密码lj6082029
+/sc item_new 挖宝_宝箱钥匙 100
+
+/sc addsocket
+
+
+皮头_黄_木_20A
+法宝_水土（火）_01D
+强化_精炼石_06 
+强化_开孔石_黄_01A、B
+强化_宝石摘除道具_060A
+
+
+
+\\172.16.117.8
+外网打印机
+
+于媛媛(于媛媛) 14:10:41
+交通里含有（打车票、火车票、飞机票、加油票）
+于媛媛(于媛媛) 14:11:21
+活动经费的发票可以有公园门票、办公用品、食品、餐费、矿泉水等明细。
+
+
+
+
+/sc item_new 布胸_红_土_40A
+/sc item_new 布腰_红_水_40A
+/sc item_new 布脚_红_水_40A
+/sc item_new 布腿_红_木_40A
+/sc item_new 布腕_红_金_40A
+/sc item_new 长棍_黄_金_40B
+/sc item_new 法球_黄_水_30B
+/sc item_new 灵符_黄_水_30A
+/sc item_new 项链_红_水_30B
+/sc item_new 戒指_红_水_40A
+
+宝石B_黄_050_最大生命+X 腿脚腕
+宝石A_黄_050_伤害减免+X 头胸腰
+宝石B_黄_050_吸取生命+X 头
+宝石B_黄_050_吸取精气+X 项链
+宝石B_黄_050_生命回复+X 脚
+宝石B_黄_050_攻击速度+X 主副手
+宝石B_红_080_伤害加深+X
+
+http://www.baihuashan888.com/cn/case.asp
